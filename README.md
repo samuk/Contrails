@@ -44,6 +44,16 @@ The first step before any major upgrade is to make a copy of your markdown confi
 In the event you'd like to pull in the latest changes into a fork of Contrails, GitHub has great documentation here:
 [GitHub Docs: Syncing a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork)
 
+## Other BSKY tooling
+
+Create RSS from Bluesky [https://bluestream.deno.dev/](https://bluestream.deno.dev/) 
+
+Post RSS into Twitter [Dlver.it](https://app.dlvrit.com/share/automate)
+
+Post RSS into Mastodon [Mastofeed](https://mastofeed.org/)
+
+Investigate [https://granary.io/](https://granary.io/)
+
 ## Changelog
 
 ### 0.2.4
