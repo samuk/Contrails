@@ -25,7 +25,6 @@ Robotics feed. More info: https://github.com/samuk/bsky_robot_list open an issue
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- https://bsky.app/profile/scottsrobots.bsky.social/post/3jzit7o6bbg2k
 - robotics
 - https://bsky.app/profile/serdarabali.bsky.social
 - https://bsky.app/profile/kevsmac.bsky.social
