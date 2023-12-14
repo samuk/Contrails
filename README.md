@@ -48,7 +48,7 @@ In the event you'd like to pull in the latest changes into a fork of Contrails, 
 
 Create RSS from Bluesky [https://bluestream.deno.dev/](https://bluestream.deno.dev/) 
 
-Create RSS from Twitter [Nitter.cz]9https://nitter.cz/RosmoRobot/)
+Create RSS from Twitter [Nitter.cz](https://nitter.cz/RosmoRobot/)
 
 Post RSS into Twitter or Bluesky [Dlvr.it](https://app.dlvrit.com/share/automate)
 
