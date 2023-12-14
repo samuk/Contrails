@@ -27,6 +27,17 @@ Robotics feed
 
 - https://bsky.app/profile/scottsrobots.bsky.social/post/3jzit7o6bbg2k
 - robotics
+- https://bsky.app/profile/serdarabali.bsky.social
+- https://bsky.app/profile/kevsmac.bsky.social
+- https://bsky.app/profile/shurik179.bsky.social
+- https://bsky.app/profile/orionrobots.bsky.social
+- https://bsky.app/profile/did:plc:ruwu6z6o6dqsznteduxliky3
+- https://bsky.app/profile/tlalexander.bsky.social
+- https://bsky.app/profile/kamath.bsky.social
+- https://bsky.app/profile/scottsrobots.bsky.social
+- https://bsky.app/profile/audrow.bsky.social
+- https://bsky.app/profile/neaveeng.bsky.social
+- https://bsky.app/profile/rosmo.bsky.social
   
 
 
