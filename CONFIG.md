@@ -15,7 +15,7 @@ robotics
 
 > This is the description of the feed.
 
-Robotics feed
+Robotics feed. More info: https://github.com/samuk/bsky_robot_list open an issue there if you post mostly about robots and would like to be added to the list
 
 # searchTerms
 
