@@ -38,6 +38,7 @@ Robotics feed. More info: https://github.com/samuk/bsky_robot_list open an issue
 - https://bsky.app/profile/neaveeng.bsky.social
 - https://bsky.app/profile/rosmo.bsky.social
 - https://bsky.app/profile/bikeengineer.bsky.social
+- https://bsky.app/profile/robottalkpod.bsky.social
   
 
 
