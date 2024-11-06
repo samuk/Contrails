@@ -8,7 +8,7 @@ Fork or copy the repository and edit `CONFIG.md` to define your feed generator.
 
 Deploy right from [GitHub Actions](https://github.com/features/actions) to [Cloudflare Workers](https://workers.cloudflare.com).
 
-The current release is [**0.2.4**](https://github.com/jcsalterego/Contrails/releases/latest).
+The current release is [**0.2.5**](https://github.com/jcsalterego/Contrails/releases/latest).
 
 ## Requirements
 
@@ -57,6 +57,10 @@ Post RSS into Mastodon [Mastofeed](https://mastofeed.org/)
 Investigate [https://granary.io/](https://granary.io/)
 
 ## Changelog
+
+### 0.2.5
+
+* Fixes deleteFeedGenerator [#28](https://github.com/jcsalterego/Contrails/issues/28)
 
 ### 0.2.4
 
